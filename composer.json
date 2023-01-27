@@ -1,27 +1,27 @@
 {
-    "name": "laravel-enso/logs",
+    "name": "cgdsoftware/logs",
     "description": "Log management dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "logs",
         "log-manager",
         "laravel-logs"
     ],
-    "homepage": "https://github.com/laravel-enso/logs",
+    "homepage": "https://github.com/cgdsoftware/logs",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "laravel-enso/core": "^8.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.1"
+        "cgdsoftware/core": "^8.0",
+        "cgdsoftware/helpers": "^2.0",
+        "cgdsoftware/migrator": "^2.1"
     },
     "autoload": {
         "psr-4": {

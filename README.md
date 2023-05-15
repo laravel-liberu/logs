@@ -6,9 +6,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/logs/downloads)](https://packagist.org/packages/laravel-enso/logs)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/logs/version)](https://packagist.org/packages/laravel-enso/logs)
 
-Log management dependency for [Laravel Enso](https://github.com/laravel-enso/Enso)
+Log management dependency for [Laravel Liberu](https://github.com/laravel-enso/Liberu)
 
-This package works exclusively within the [Enso](https://github.com/laravel-enso/Enso) ecosystem.
+This package works exclusively within the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
 The front end assets that utilize this api are present in the [ui](https://github.com/enso-ui/ui) package.
 

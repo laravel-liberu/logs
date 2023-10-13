@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\Logs\\": "src/"
+            "LaravelLiberu\\Logs\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\Logs\\AppServiceProvider"
+                "LaravelLiberu\\Logs\\AppServiceProvider"
             ],
             "aliases": {}
         }

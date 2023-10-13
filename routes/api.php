@@ -1,10 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\Logs\Http\Controllers\Destroy;
-use LaravelEnso\Logs\Http\Controllers\Download;
-use LaravelEnso\Logs\Http\Controllers\Index;
-use LaravelEnso\Logs\Http\Controllers\Show;
+use LaravelLiberu\Logs\Http\Controllers\Destroy;
+use LaravelLiberu\Logs\Http\Controllers\Download;
+use LaravelLiberu\Logs\Http\Controllers\Index;
+use LaravelLiberu\Logs\Http\Controllers\Show;
 
 Route::middleware(['api', 'auth', 'core'])
     ->prefix('api/system/logs')

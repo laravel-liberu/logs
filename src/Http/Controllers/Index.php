@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Logs\Http\Controllers;
+namespace LaravelLiberu\Logs\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Logs\Services\Collection;
+use LaravelLiberu\Logs\Services\Collection;
 
 class Index extends Controller
 {

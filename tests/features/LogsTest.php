@@ -4,7 +4,7 @@ use Faker\Factory;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Log;
-use LaravelEnso\Users\Models\User;
+use LaravelLiberu\Users\Models\User;
 use Tests\TestCase;
 
 class LogsTest extends TestCase

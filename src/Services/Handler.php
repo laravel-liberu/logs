@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Logs\Services;
+namespace LaravelLiberu\Logs\Services;
 
 use Carbon\Carbon;
 use Illuminate\Support\Facades\File;
-use LaravelEnso\Helpers\Services\Decimals;
+use LaravelLiberu\Helpers\Services\Decimals;
 
 abstract class Handler
 {

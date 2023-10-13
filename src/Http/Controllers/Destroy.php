@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Logs\Http\Controllers;
+namespace LaravelLiberu\Logs\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Logs\Services\ClearLog;
+use LaravelLiberu\Logs\Services\ClearLog;
 
 class Destroy extends Controller
 {

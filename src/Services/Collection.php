@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Logs\Services;
+namespace LaravelLiberu\Logs\Services;
 
 use Illuminate\Support\Collection as Collect;
 use Illuminate\Support\Facades\File;

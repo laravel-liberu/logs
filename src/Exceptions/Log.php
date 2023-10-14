@@ -2,10 +2,10 @@
 
 namespace LaravelLiberu\Logs\Exceptions;
 
-use LaravelLiberu\Helpers\Exceptions\EnsoException;
+use LaravelLiberu\Helpers\Exceptions\LiberuException;
 use LaravelLiberu\Logs\Services\Presenter;
 
-class Log extends EnsoException
+class Log extends LiberuException
 {
     public static function sizeExceded()
     {
